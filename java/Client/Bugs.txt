@@ -1,1 +1,0 @@
-When the server the client is connected to exits out/shuts down. The client will crash.
